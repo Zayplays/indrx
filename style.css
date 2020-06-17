@@ -1,0 +1,100 @@
+#one {
+background-color: #333;
+color: #bbbbbb; 
+letter-spacing: 3px; 
+font-weight: 600;
+text-align : center;
+border : 2px solid #bbbbbb;
+}
+#two{
+color : whitesmoke;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  padding: 14px 16px;
+
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+
+#clock {
+  text-align: center;
+  font-family: impact;
+  color : goldenrod;
+}
+footer {
+color : whitesmoke;
+text-align: center;
+font-family: impact;
+letter-spacing: 3px;
+font-weight: 600;
+background-color: #25272C;
+}
+#gi{
+text-align: center;
+letter-spacing: 2px;
+font-family: impact;
+color : black;
+font-size: 30px;
+}
+#lo{
+text-align: center;
+font-family: Tahoma;
+font-size: 30px;
+color : black;
+}
+
+#nul{
+text-align: center;
+color : whitesmoke;
+border:2px solid gray ;
+background-color: #555;
+font-family: verdana;
+margin-left: 500px;
+margin-right: 500px;
+border-radius: 12px;
+}
+body{
+  background-color: whitesmoke;/*حط لون لي تبيه*/
+  text-align: center;
+}
+/*
+#nog{
+  color: #bbbbbb; 
+  letter-spacing: 3px; 
+  font-weight: 600;
+  text-align : center;
+  border : 2px solid #bbbbbb;
+}
+*/
